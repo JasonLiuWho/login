@@ -1,0 +1,19 @@
+* { box-sizing: border-box;}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: cadetblue;
+}
+
+#header {
+    background-color: #3b413c;
+}
+
+.log {
+    color: wheat;
+}
+
+#formMain {
+    border: 2px solid wheat;
+}
